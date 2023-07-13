@@ -38,8 +38,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/ashwanipydev/product-preview-card-component-main.git)
-- Live Site URL: [Add live site URL here](https://ashwanipydev.github.io/product-preview-card-component-main/)
+- Solution URL: [](https://github.com/ashwanipydev/product-preview-card-component-main.git)
+- Live Site URL: [](https://ashwanipydev.github.io/product-preview-card-component-main/)
 
 ## My process
 
