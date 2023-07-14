@@ -75,7 +75,7 @@ body{
     height: 100vh;
     place-content: center;
     margin: 1rem;
-
+    position:relative;
 }
 
 
@@ -157,4 +157,9 @@ body{
     font-size: 2rem;
     font-family: var(--ff-heading);
     color: var(--clr-primary-400);
+}
+
+.attribution{
+    position:absolute;
+    bottom: 0;
 }
